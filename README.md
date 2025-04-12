@@ -11,5 +11,5 @@
 
 How to Install
 
-- Open oscilloscope_arduino.ino with the Arduino IDE.
+- Open oscilloscope_arduino.ino with the Arduino IDE and upload to ARDUINO UNO.
 - Run oscilloscope_4ch.exe.
