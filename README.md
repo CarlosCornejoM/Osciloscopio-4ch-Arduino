@@ -2,7 +2,7 @@
 ![Osciloscopio 4 canales](Animation.gif)
 
 
-- **Specs:**
+Specs:
 - Vmax = 5V
 - Imax = 40mA
 - fmax = 3kHz
