@@ -7,7 +7,7 @@
 - Imax = 40mA
 - fmax = 3kHz
 - 4 Channels INPUT (A0, A1, A2, A3)
-- 2 Channels OUTPUT (PWM SW)
+- 2 Channels OUTPUT PWM SW (pin9 and pin10)
 
 How to Install
 
